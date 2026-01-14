@@ -14,3 +14,9 @@ I added an image.
 Myname = "Rui"
 print("Hello "+Myname)
 ```
+
+### make a task list
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
